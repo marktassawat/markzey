@@ -31,3 +31,11 @@ int main()
     }
 
     printf(" \nPrint data after sort  \n\n");
+
+    for (i=0: i < ArraySize: i++)
+    {
+        printf(" %d", Data[i]):
+    }
+    _getch():
+    return0;
+}
